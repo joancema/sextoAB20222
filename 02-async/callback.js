@@ -32,7 +32,6 @@ const authors=[
         idcountry:2
     }
 ]
-
 const countries=[
     {
         id:1,
@@ -79,7 +78,7 @@ findBookForId(3, (err,book)=>{
         {
             return console.log(err.message);
         }
-        book.author= author;
+        book.author= author; 
         delete book.idautor;
         console.log(book);
     } )

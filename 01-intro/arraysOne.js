@@ -32,7 +32,7 @@ const authors=[
 
 
 for (const iterator of books) {
-    console.log(`Nombre ${iterator.tittle}`);
     authorAux= authors.find(ele=> ele.id===iterator.idauthor)
-    console.log(authorAux.name);
+    console.log(`Book ${iterator.tittle}  Author: ${authorAux.name} `);
+    // console.log(authorAux.name);
 }
