@@ -74,12 +74,12 @@ function findAuthorForId(id){
         resolve(author);
     })
 }
-
-
-findBookForId(1).then((book)=>{ 
+findBookForId(2)
+.then((book)=>{ 
     console.log(book);
     return findAuthorForId(book.idauthor);
-}).then((author)=>{
+})
+.then((author)=>{
     console.log(author)
 })
 .catch((error)=>{

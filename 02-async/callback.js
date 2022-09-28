@@ -73,6 +73,7 @@ findBookForId(3, (err,book)=>{
         console.log(err.message);
         return;
     }
+    // console.log(book)
     findAuthorForId( book.idauthor, ( err, author )=>{
         if (err)
         {
@@ -81,5 +82,6 @@ findBookForId(3, (err,book)=>{
         book.author= author; 
         delete book.idautor;
         console.log(book);
+
     } )
 })

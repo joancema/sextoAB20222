@@ -55,6 +55,7 @@ async function findBookForId(id){
     return book;
 
 }
+
 async function findAuthorForId(id){
     const author =  authors.find((author)=>{
         return author.id===id;
@@ -67,14 +68,11 @@ async function findAuthorForId(id){
     }
     return author;
 }
-
-
-
 (async ()=>{
     try
     {
-        const book  =  await findBookForId(1);
-        const author =  await findAuthorForId(book.idauthor);
+        const book  =   await findBookForId(1);
+        const author =   await  findAuthorForId(book.idauthor);
         book.author = author;
         console.log(book)
     }
