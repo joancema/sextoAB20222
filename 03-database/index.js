@@ -1,6 +1,11 @@
 // npm init --y
 // npm i mongoose
+
+// mongodb+srv://joancema:joancema@cluster0.x7met.mongodb.net/test
 const mongoose = require('mongoose');
+
+// const { connect } = require('mongoose')
+
 
 // const { Types } = require('mongoose')
 
@@ -23,11 +28,12 @@ try {
     //crear modelo de permisos
     const Permission = mongoose.model("Permission", {name:String});
 
-
+    //#region 
+    
     ///nota
     //alumno
     ///asignatura
-
+    
     // alumno (id, nombre, identificacion)
     //asignatura (id, descripcion)
     // nota ( id, idalumno, idasignatura,  calificacion, observacion )       
@@ -36,38 +42,37 @@ try {
     // const Asignatura = mongoose.model("asignatura", { descripcion:String }  );
     // const Nota = mongoose.model("nota", 
     // { 
-    //     idalumno: { type: mongoose.Types.ObjectId , ref:"alumno" } ,
-    //     idasignatura: { type: mongoose.Types.ObjectId , ref:"asignatura" } ,
-    //     calificacion:String, 
-    //     observacion:String, 
-    // }  
-    // );
-    // const alumno1 =  new Alumno({name:"John", identificacion:"123123123123"});
-    // const saveAlumno = await  alumno1.save();
-    // const asignatura1 =  new Asignatura({descripcion:"Programacion WEB II"});
-    // const saveAsignatura = await  asignatura1.save();
-
-
-    // const nota1=  new Nota(
-    //     {
-    //         calificacion:"8",
-    //         observacion:"Debe estudiat mas",
-    //         idasignatura: saveAsignatura._id,
-    //         idalumno: saveAlumno._id
-    //     }
-    //     );
-
-    // const saveNota = nota1.save();
-
-
-
-
-
-
-
-
-
-
+        //     idalumno: { type: mongoose.Types.ObjectId , ref:"alumno" } ,
+        //     idasignatura: { type: mongoose.Types.ObjectId , ref:"asignatura" } ,
+        //     calificacion:String, 
+        //     observacion:String, 
+        // }  
+        // );
+        // const alumno1 =  new Alumno({name:"John", identificacion:"123123123123"});
+        // const saveAlumno = await  alumno1.save();
+        // const asignatura1 =  new Asignatura({descripcion:"Programacion WEB II"});
+        // const saveAsignatura = await  asignatura1.save();
+        
+        
+        // const nota1=  new Nota(
+            //     {
+                //         calificacion:"8",
+                //         observacion:"Debe estudiat mas",
+                //         idasignatura: saveAsignatura._id,
+                //         idalumno: saveAlumno._id
+                //     }
+                //     );
+                
+        // const saveNota = nota1.save();
+                
+                
+                
+                
+                
+                
+                
+                
+    //#endregion
 
     // crear modelo de usuarios
     const User =  mongoose.model("User", 
@@ -105,16 +110,17 @@ try {
         }
         );
 
-
+        //#region 
         // user1.save().then((usuarioAlmacenado)=>{
-        //     console.log(usuarioAlmacenado);
-        //     return User.find()
-        // }).then((usuariosConsultados)=>{
-        //     console.log(usuariosConsultados);
-        // })
-        // .catch((err)=>{
-        //     console.log(err);
-        // })
+            //     console.log(usuarioAlmacenado);
+            //     return User.find()
+            // }).then((usuariosConsultados)=>{
+                //     console.log(usuariosConsultados);
+                // })
+                // .catch((err)=>{
+                    //     console.log(err);
+                    // })
+        //#endregion
 
     const userSave=  await user1.save();
 
