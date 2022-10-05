@@ -10,9 +10,6 @@ const mongoose = require('mongoose');
 // const { Types } = require('mongoose')
 
 
-
-
-
 const connectionURL= "mongodb+srv://joancema:joancema@cluster0.x7met.mongodb.net/ejemploDB?retryWrites=true&w=majority";
 // mongodb+srv://joancema:joancema@cluster0.x7met.mongodb.net/prueba
 ( async ()=>{
