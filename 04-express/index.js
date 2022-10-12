@@ -1,15 +1,18 @@
+// npm init --y
 // npm i express
 // npm i cors
 // npm i nodemon -D
 
 
-const fs =  require("fs");
+
+
 const path = require("path");
 
 const express = require("express");
 const cors =  require("cors");
 
 const PUERTO = 8080;
+//sdfsdf
 
 const urlIndex = path.join(__dirname,"./index.html")
 const urlAbout = path.join(__dirname,"./about.html")
@@ -31,7 +34,7 @@ server.get('/about', (req,res)=>{
 })
 server.get('/test',(req,res)=>{
     res.status(200).json({
-        'message':'Problem with application web'
+        'message':'Problem with application web!!!!!!!!!'
     })
 })
 server.use((req,res, next)=>{
@@ -53,6 +56,8 @@ server.listen(PUERTO, ()=>{
 
 // 
     // const http = require("http");
+    // const fs =  require("fs");
+
     // const index =  fs.readFileSync('./index.html');
     // const about =  fs.readFileSync('./about.html');
     // const error =  fs.readFileSync('./error.html');
