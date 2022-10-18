@@ -1,3 +1,4 @@
+// npm init --y
 // npm i express
 // npm i cors
 // npm i nodemon -D
@@ -12,6 +13,9 @@ let students = [];
 
 app.use('/public', express.static(__dirname+'/public') )
 app.use(cors()).use(express.json())
+
+///servicio REST
+/// Route Student
 
 
 app.get('/', (req,res)=>{
@@ -40,12 +44,23 @@ app.post('/', (req,res)=>{
 })
 app.put('/', (req,res)=>{
     const {identification, name, course} = req.body;
-    let student =  students.filter(p=> p.identification === identification)[0]||{}
-    if (student.length)
-    {
-        student.name = name;
-        student.course = course;
-    }
+    
+    // let students =  students.filter(p=> p.identification === identification)
+    // if (students.length>0)
+    // {
+        //  student= students[0]
+        //  student.name= name;
+        //  student.course= course;
+
+    // }
+    
+    let student =  students.filter(p=> p.identification === identification)[0] || {}
+    
+    // console.log(student)
+
+    student.name = name;
+    student.course = course;
+
     res.status(200).send(
         {
             message:"dato modificado correctamente",
@@ -61,8 +76,6 @@ app.delete('/:identification', (req,res)=>{
         response:"Se eliminó el estudiante con éxito!"
     })
 })
-
-
 app.listen(PUERTO, ()=>{
     console.log(`Servidor corriendo, acceda a http://localhost:${PUERTO}`)
 })
