@@ -14,14 +14,14 @@ class Server
         this.port = process.env.PORT;
 
         this.paths = {
-            products: '/api/productos',
-            categories: '/api/categorias'
+            products: '/api/products',
+            categories: '/api/categories'
         }
 
         this.connectDB();
         this.middlewares();
         this.routes();
-        this.router.use('/v1/inventary', this.app);
+        this.router.use('/v1/inventory', this.app);
         this._express = express().use(this.router);
     }
     async connectDB(){

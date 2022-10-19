@@ -20,7 +20,7 @@ router.get('/:id'
  , getCategory );
 
  router.post('/',[
-    check('nombre', 'EL nombre es requerido').not().isEmpty(),
+    check('name', 'EL nombre es requerido').not().isEmpty(),
     validateFields
 ], createCategory);
 

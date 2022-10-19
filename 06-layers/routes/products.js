@@ -20,7 +20,7 @@ router.get('/:id', [
  ]  , getProduct);
 
 router.post('/',[
-    check('nombre', 'EL nombre es requerido').not().isEmpty(),
+    check('name', 'El nombre es requerido').not().isEmpty(),
     validateFields
 ] , createProduct)
 

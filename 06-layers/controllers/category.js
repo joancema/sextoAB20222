@@ -32,7 +32,7 @@ const createCategory = async(req,res=response)=>{
     if (existCategory)
     {
         return res.status(400).json({
-            msg:`La categoria ${ existeCategoria.nombre } ya existe`
+            msg:`La categoria ${ existeCategoria.name } ya existe`
         })
     }
 
