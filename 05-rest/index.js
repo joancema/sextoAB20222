@@ -3,19 +3,20 @@
 // npm i cors
 // npm i nodemon -D
 
-const express  = require("express");
 const cors = require("cors");
+const express  = require("express");
 
 const app =  express();
 const PUERTO =  3000;
 
-let students = [];
 
-app.use('/public', express.static(__dirname+'/public') )
 app.use(cors()).use(express.json())
+app.use('/public', express.static(__dirname+'/public') )
 
 ///servicio REST
 /// Route Student
+
+let students = [];
 
 
 app.get('/', (req,res)=>{
@@ -25,6 +26,7 @@ app.get('/', (req,res)=>{
 })
 app.get('/:identification', (req,res)=>{
     const {identification} =  req.params;
+    // req.params.identification
     let result = students.filter(p => p.identification === identification);
     if (result.length>0)
     {
@@ -36,6 +38,8 @@ app.get('/:identification', (req,res)=>{
 })
 app.post('/', (req,res)=>{
     const {body} = req;
+    // req.body.name
+    // req.body.address
     students.push(body);
     res.status(200).send({
         message:"Dato insertado correctamente",
@@ -45,6 +49,7 @@ app.post('/', (req,res)=>{
 app.put('/', (req,res)=>{
     const {identification, name, course} = req.body;
     
+    //#region ejemplo
     // let students =  students.filter(p=> p.identification === identification)
     // if (students.length>0)
     // {
@@ -53,6 +58,7 @@ app.put('/', (req,res)=>{
         //  student.course= course;
 
     // }
+    //#endregion
     
     let student =  students.filter(p=> p.identification === identification)[0] || {}
     
