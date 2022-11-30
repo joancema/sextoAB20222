@@ -1,0 +1,5445 @@
+npm -v
+node -v
+git status
+git
+vim
+clear
+vi
+exit
+git
+git status
+git 
+clear
+git 
+exit
+ls
+clear
+ls
+cd ./
+cd ../
+cd ..
+ls
+mkdir joancema
+clear
+ git config --global user.name "John Cevallos"
+git config --global user.email joancemac@gmail.com
+git config --list
+clear
+git clone https://gitlab.com/joancema/medicochile.git
+clea
+clear
+ls
+cd .\joancema\
+ls
+clear
+git clone https://gitlab.com/joancema/medicochile.git
+cd .\medicochile\
+clear
+git status
+ls
+clear
+npm -v
+cd ..
+npm i create-react-app -g
+cd .\medicochile\
+clear
+ls
+cd .\sistemamedico\
+clear
+ls
+cd ..
+clear
+npm start
+ls
+cd .\sistemamedico\
+ls
+npm start
+npm install
+clear
+npm start
+ls
+cd .\Backend\
+clear
+ls
+npm install
+npm start
+clear
+ls
+docker ps}
+docker ps
+clear
+docker images
+clear
+docker-compose build
+npm -v
+npm install -g npm@7.0.5`
+npm install -g npm@7.0.5
+clear
+npm -b
+clear
+npm -v
+docker-compose up
+clear
+ls
+cd .\sistemamedico\
+clear
+npm start
+clear
+git add .
+git commit -m 'asdf'
+git pull
+clear
+git push origin master
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+ssh root@198.199.81.154
+exit
+clear
+cd .\Backend\
+ls
+npm start
+clear
+npm start
+cd .\sistemamedico\
+clear
+ls
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+ls
+cd .\sistemamedico\
+npm start
+clear
+npm start
+clear
+ssh root@198.199.81.154
+exit
+clear
+cd .\primerParcial\
+clear
+node .\intro.js
+clear
+node .\intro.js
+clear
+node .\intro.js
+clear
+node .\intro.js
+clear
+node .\intro.js
+clear
+node .\intro.js
+clear
+node .\intro.js
+clear
+node .\intro.js
+cd .\primerParcial\
+node .\intro.js
+clear
+node .\intro.js
+clear
+node .\intro.js
+clear
+node .\intro.js
+clear
+node .\callback.js
+node .\callbackHell.js
+clear
+node .\callbackHell.js
+clear
+node .\callbackHell.js
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+cd .\primerParcial\
+node .\promesas.js
+node .\callbackHell.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+cd .\introduccion\
+node .\intro1.js
+clear
+node .\switch.js
+clear
+node .\clases.js
+node .\clases2.js
+node .\arreglos1.js
+node .\arreglos2.js
+node .\arreglos3.js
+clear
+cd .\primerParcial\
+cd .\introduccion\
+clear
+node .\ciclo1.js
+clear
+node .\ciclo2.js
+node .\ciclo3.js
+clear
+node .\ciclo4.js
+node .\ciclo5.js
+node .\funciones1.js
+clear
+node .\funciones1.js
+clear
+node .\funciones2.js
+node .\funciones3.js
+clear
+cd .\primerParcial\
+cd .\introduccion\
+clear
+node .\arreglos4.js
+clear
+node .\arreglos4.js
+clear
+node .\clases1.js
+clear
+cd ..
+cd ll
+cd ..
+clear
+cd .\EnClases\
+clear
+ls
+clear
+cd .\nov12\
+clear
+npm -v
+node -v
+clear
+npm -v
+node -v 
+node .\index.js
+clear
+node .\index.js
+cd ..
+cd .\EnClases\
+.\nov12\
+clear
+ls
+cd .\nov12\
+clear
+node .\index.js
+cd ..
+cd .\EnClases\
+ls
+cd .\nov12\
+clear
+ls
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node -v
+ls
+clear
+git init
+git remote add origin https://gitlab.com/joancema/clasessextoa.git
+git add .
+git commit -m "Listo el código"
+clear
+git push -u origin master
+clear
+cd .\EnClases\
+clear
+ls
+cd ..
+cd .\primerParcial\
+clear
+cd .\baseDeDatos\
+cd .\MongoDB-Example\
+clear
+ls
+node .\index.js
+clear
+npm i
+clear
+npm start
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+cd .\EnClases\
+cd .\nov12\
+clear
+cd ..
+cd .\nov17\
+clear
+ls
+clear
+node .\index.js
+node
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+cd .\sistemamedico\
+clear
+cd ..
+cd .\Backend\
+ls
+clear
+node .\info\
+clear
+ls
+cd .\Backend\
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+npm start
+cd ..
+clear
+cd .\sistemamedico\
+clear
+npm start
+clear
+clear
+npm start
+clear
+clear
+cd .\Backend\
+npm start
+clear
+npm start
+cd .\sistemamedico\
+clear
+npm start
+clear
+ssh root@198.199.81.154
+exit
+cd .\sistemamedico\
+clear
+npm start
+clear
+npm start
+clear
+cd .\sistemamedico\
+npm start
+ssh root@198.199.81.154
+exit
+clear
+cd .\primerParcial\
+cd .\introduccion\
+node .\funciones4.js
+clear
+cd ..\..\EnClases\
+clear
+cd .\nov17\clear
+clear
+cd nov17
+clera
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+cd .\EnClases\
+clear
+cd .\nov17\
+node .
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+cd .\primerParcial\
+cd pru
+clear
+cd .\baseDeDatos\
+cd .\prueba\
+clear
+npm init
+clear
+npm i mongoose
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+npm i dotenv
+npm i node-cron
+npm i axios
+npm i cheerios
+npm i cheerio
+clear
+ls
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+ls
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+cd ..
+ls
+cd .\MongoDB-Example\
+clear
+node .
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+cd ..
+ls
+cd .\prueba\
+clear
+node .
+clear
+node .
+clear
+cd .\primerParcial\
+cd .\sincroAsincro\
+clear
+node .\promesas.js
+clear
+CD .\primerParcial\
+cd .\sincroAsincro\
+clear
+node .\callbackHell.js
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+cd .\EnClases\
+clear
+cd .\nov23\
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+cd .\primerParcial\
+ls
+cd .\baseDeDatos\
+clear
+ls
+cd .\pruebaInicial\
+clear
+node .
+npm i D mongoose
+clear
+npm i -D mongoose
+clear
+node .\index.js
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+cd .\primerParcial\baseDeDatos\
+clear
+cd .\pruebaInicial\
+clear
+node .
+clear
+cd .\primerParcial\
+clear
+cd .\sincroAsincro\
+node .\asyncAwait.js
+node .
+clear
+node .
+clear
+node .
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+cd .\primerParcial\
+clear
+cd .\servidorWeb\
+clear
+ls
+cd .\sinExpress\
+clear
+touch index.js
+clear
+ni index.js
+clear
+ni index.js
+new-item inde.js
+clear
+ni index.js
+clear
+ni index.js
+clear
+ni index.html
+ni about.html
+clear
+node .
+clear
+cd ..\conExpress\
+clear
+npm init
+clear
+npm i -D express 
+clear
+node .
+clear
+node .
+CLEAR
+ni about.html
+CLEAR
+node .
+clear
+node .
+clear
+node .
+clear
+cd .\EnClases\
+cd .\nov23\
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+cd .\primerParcial\
+clear
+cd .\Rest\
+cd .\prueba\
+clear
+npm i express express-async-errors awilix cors compression helmet bcryptjs jsonwebtoken memory-cache mongoose swagger-ui-express
+ls
+clear
+npm init
+clear
+npm i express express-async-errors awilix cors compression helmet bcryptjs jsonwebtoken memory-cache mongoose swagger-ui-express
+clear
+npm i -D dotenv nodemon mockingoose jest
+clear
+cd .\primerParcial\
+cd .\Rest\
+cd .\prueba\
+clear
+ni .env
+cd baseDeDatos
+cd .\EnClases\
+cd ..
+cd .\primerParcial\
+cd .\baseDeDatos\
+ls
+cd .\pruebaInicial\
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+cd ../..
+cd ..
+cd .\EnClases\
+clear
+cd .\nov23\
+ls
+clear
+LS
+clear
+mkdir mongodbatlas
+cd .\mongodbatlas\
+clear
+ni index.js
+clear
+npm init 
+npm install mongoose
+npm install -D  jest 
+clear
+node index.js
+clear
+npm start
+npm devstart
+clear
+cd .\EnClases\nov23\
+cd .\mongodbatlas\
+clear
+ls
+clear
+npm install 
+clear
+cd .\EnClases\nov23\mongodbatlas\
+ls
+clear
+node .\index.js
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+node .
+clear
+node .
+CLEAR
+clear
+cd .\primerParcial\
+clear
+cd .\Rest\
+clear
+ls
+cd .\prueba\
+clear
+npm start
+clear
+npm start
+clear
+node .\index.js
+clear
+npm start
+clear
+npm start
+clear
+npm run dev
+clear
+npm run dev
+clear
+cd .\sistemamedico\
+clear
+npm start
+clear
+ssh root@198.199.81.154
+exit
+cd .\EnClases\
+cd .\dic01\
+clear
+npm init 
+clear
+npm i axios 
+npm i cheerio
+clear
+npm i mongoose
+clear
+npm i node-cron
+npm i dotenv
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+cd .\EnClases\
+clear
+cd .\dic01\
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+cd .\EnClases\dic01\
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+cd .\primerParcial\
+clear
+cd .\Rest\
+clear
+cd .\modelos\
+ls
+npm i
+clear
+npm run dev
+clear
+cd .\primerParcial\servidorWeb\
+cd .\conExpress\
+clear
+node .\restViejo.js
+clear
+node .
+clear
+cd ..
+cd .\Rest\
+clear
+cd .\repositorios\
+clear
+npm i
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+cd .\primerParcial\Rest\
+clear
+cd .\servicios\
+clear
+npm start
+clear
+npm i
+clear
+npm start
+clear
+cd ..\controladores\
+clear
+npm i
+clear
+npm start
+clear
+cd ..
+cd .\rutas\
+npm i
+clear
+npm run dev
+clear
+cd .\primerParcial\
+cd .\Rest\
+clear
+cd .\rutas\
+clear
+cd .\primerParcial\
+cd .\Rest\
+clear
+cd .\rutas\
+clear
+npm start
+clear
+node .\index.js
+clear
+cd ..
+cd .\servidorWeb\
+cd .\conExpress\
+clear
+node .\restViejo.js
+clear
+node .\restViejo.js
+clear
+npm i nodemon
+clear
+npm run dev
+clear
+node .\index.html
+clear
+npm start
+clear
+cd ..
+cd .\Rest\
+clear
+cd .\inicio\
+clear
+npm dev
+clear
+npm run dev
+clear
+npm run dev
+clear
+cd .\primerParcial\
+clear
+cd .\Rest\
+clear
+cd .\rutas\
+clear
+npm run dev
+clear
+npm init 
+clear
+cd .\EnClases\dic08\
+clear
+ls
+clear
+npm init
+clear
+npm install express
+npm install -D  nodemon 
+clear
+npm run dev
+npm run test
+CLEAR
+npm start
+clear
+npm run dev
+clear
+npm run dev
+ clear
+npm run dev
+clear
+npm run dev
+clear
+cd ../
+cd .\clases\primerParcial\
+clera
+clear
+cd .\Rest\
+cd .\rutas\
+clear
+npm run dev
+ cd .\primerParcial\
+cd .\Rest\
+cd .\rutas\
+clear
+npm run dev
+clear
+clear
+npm run dev
+clear
+npm run dev
+clear
+cd ..
+cd .\EnClases\
+clear
+cd .\dic08\
+clear
+npm run dev
+clear
+cd .\EnClases\
+clear
+cd .\dic08\
+clear
+npm run dev
+clear
+cd .\EnClases\
+cd .\dic08\
+clear
+npm run dev
+clear
+cd .\EnClases\dic08\
+clear
+npm run dev
+clear
+cd .\primerParcial\
+cd .\servidorWeb\
+clear
+cd .\conExpress\
+clear
+npm start
+clear
+cd .\primerParcial\servidorWeb\
+clear
+npm run dev
+clear
+ls
+cd .\conExpress\
+clear
+npm run dev
+clear
+cd servicios
+clear
+npm i 
+npm run dev
+clear
+npm run dev
+clear
+cd .\primerParcial\servidorWeb\servicio7\
+clear
+npm start
+clear
+node .\index.js
+clear
+npm init
+clear
+npm i nodemon
+npm i express
+clear
+npm run dev
+clear
+cd .\EnClases\dic08\
+clear
+npm run dev
+clear
+npm i cors
+npm run dev
+clear
+cd .\sistemamedico\
+npm start
+clear
+ssh 198.199.81.154
+ssh root@198.199.81.154
+exit
+cd ..\Servicios\
+clear
+npm start
+lear
+clear
+npm run dev
+clear
+cd .\EnClases\
+cd .\dic08\
+clear
+npm run dev
+clear
+cd .\EnClases\dic08\
+clear
+npm run dev
+clear
+cd ..
+cd .\dic01\
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+cd serv
+cear
+clear
+cd .\Servicios\
+clear
+ls
+npm run dev
+clear
+npm run dev
+clear
+cd .\primerParcial\
+clear
+cd .\Rest\
+cd .\full\
+clear
+npm i
+cd ..
+cd .\completo\
+clear
+npm i
+clear
+cd ..
+cd .\final\
+cd ..
+cd completo
+clear
+cd final
+clear
+npm i
+clear
+npm run dev
+clear
+cd .\primerParcial\
+cd .\Servicios\
+clear
+npm i mongoose-autopopulate
+cd .\Servicios\
+clear
+npm i mongoose-autopopulate
+clear
+npm run dev
+clear
+npm run dev
+clear
+cd .\EnClases\
+clear
+cd .\dic15\
+clear
+npm start
+clear
+npm init
+clear
+npm install awilix
+clear
+npm install express
+clear
+npm install mongoose
+clear
+npm install cors
+clear
+npm install bcryptjs
+npm install helmet 
+npm install memory-cache
+clear
+npm install jsonwebtoken
+npm install express-async-errors
+clear
+npm install compression
+npm install -D dotenv
+npm install -D nodemon
+npm install -D jest
+clear
+npm install -D mockingoose 
+clear
+jest
+clear
+cd .\Servicios\
+clear
+npm run dev
+clear
+cd .\Servicios\
+clear
+npm run dev
+clear
+cd .\EnClases\
+clear
+cd .\dic15\
+clear
+npm run dev
+clear
+cd .\EnClases\
+clear
+cd .\dic15\
+clear
+npm run dev
+CLEAR
+clear
+cd .\sistemamedico\
+clear
+npm start 
+clear
+npm start
+clear
+ssh root@198.199.81.154
+npx
+npx --version
+npm --version
+exit
+cd .\EnClases\
+clear
+cd .\ene05\
+clear
+node .\index.js
+npm install
+clear
+npm start
+clear
+cd .\segundoParcial\
+clear
+node .\index.js
+clear
+ls
+clear
+cd .\docker1\
+clear
+node .\index.js
+clear
+docker build . -t nodejs-prueba
+clear
+docker run --name prueba -d nodejs-prueba
+docker run --name prueba-mongo -p 27017:27017 -d mongo
+clear
+pwd
+ls
+cd .\Servicios\
+clear
+npm start
+clear
+npm -v
+clear
+npm start
+clear
+npm start
+clear
+npm run dev
+clear
+cd .\EnClases\
+clear
+cd .\ene05\
+npm run dev
+clear
+cd .\EnClases\
+clear
+cd .\ene18\
+clear
+npm run dev
+clear
+cd .\sistemamedico\
+clear
+npm start
+ssh root@198.199.81.154
+exit
+clear
+cd ..
+cd .\Servicios\
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+npm --version
+npm install -g npm@7.4.2`
+npm install -g npm@7.4.2
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+docker pull node
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+cd ..
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+.\segundoParcial\
+cd .\segundoParcial\
+clear
+npm i -g express-generator
+cd .\docker2\
+clear
+npm i -g express-generator
+npm i  express-generator
+clear
+npm i -g express
+npm cache clean --force
+npm i -g express
+clear
+npm i -g express
+cler
+clear
+express --views=hbs express-template
+clear
+express --views=hbs express-template
+npm i  -g express-generator
+cldar
+clear
+node -v
+npm -v
+cd .\segundoParcial\
+clear
+npm init
+clear
+npm i -g express
+npm cache clean --force
+clear
+npm cache clean --force
+clear
+npm i -g express
+clear
+npm i -g express
+clear
+npm i  -g express-generator
+express --views=hbs express-template
+express-generator --views=hbs express-template
+clear
+cd .\docker2\
+clear
+express-generator --views=hbs express-template
+clear
+npm i  -g express-generator
+npm i -g express
+clear
+cd node_modules
+clear
+npm i express
+npm i express-generator
+express
+express-generator
+clear
+npm init
+clear
+npm install -g express
+npm install
+npm i express-generator
+clear
+express
+ls
+clear
+express
+Get-ExecutionPolicy 
+Set-ExecutionPolicy Unrestricted
+Get-ExecutionPolicy 
+express
+clear
+express --views=hbs express-template
+cd .\express-template\
+clear
+ls
+npm start
+clear
+npm install
+npm start
+clear
+exit
+ls
+pwd
+clear
+docker run -p 3000:3000 -v $(pwd):/var/www -w "/var/www" node npm start
+docker
+clear
+docker run -p 3000:3000 -v $(pwd):/var/www -w "/var/www" node npm start
+docker run --help
+docker run -p 3000:3000 -v $(pwd):/var/www -w "/var/www" node npm start
+docker run -p 3000:3000 -v .:/var/www -w "/var/www" node npm start
+docker run -p 3000:3000 -v C:\joancema\clases\segundoParcial\docker2\express-template\:/var/www -w "/var/www" node npm start
+clear
+cd .\segundoParcial\
+clear
+cd .\docker3\
+clear
+npm init
+clear
+npm install -g express
+clear
+npm run test
+cd .\EnClases\
+cd .\ene18\
+clear
+ls
+clear
+npm run dev
+clear
+cd .\segundoParcial\
+clear
+cd .\docker3\
+clear
+docker run --name prueba-mongo -p 27017:27017 -d mongo 
+docker ps
+docker rm prueba-mongo
+docker stop prueba-mongo
+docker ps
+docker rm prueba-mongo
+clear
+cd ..
+cd .\docker2\
+clear
+docker run --name prueba -d nodejs-prueba
+clear
+docker pull postgres
+docker run --name some-postgres -e POSTGRES_PASSWORD=mysecretpassword -d postgres
+docker run --name some-postgres -e POSTGRES_PASSWORD=jacm1310 -d postgres
+docker pull dpage/pgadmin4
+docker pull dpage/pgadmin4`
+docker run -p 80:80 \`
+    -e 'PGADMIN_DEFAULT_EMAIL=joancemac@gmail.com' \`
+    -e 'PGADMIN_DEFAULT_PASSWORD=jacm1310' \`
+    -d dpage/pgadmin4
+docker pull dpage/pgadmin4`
+docker run -p 80:80  -e 'PGADMIN_DEFAULT_EMAIL=joancemac@gmail.com' -e 'PGADMIN_DEFAULT_PASSWORD=jacm1310' -d dpage/pgadmin4
+docker run --name some-postgres -p 5432:5432 -e POSTGRES_PASSWORD=jacm1310 -d postgres
+exit
+cd .\segundoParcial\
+clear cd .\docker4\
+clear
+docker-compose up -d
+cd .\docker4\
+clear
+docker-compose up -d
+clear
+ssh root@198.199.81.154
+clear
+ssh root@198.199.81.154
+exit
+cd .\Servicios\
+clear
+npm start
+clear
+cd .\EnClases\
+cd .\ene18\
+clear
+npm start
+clear
+npm run dev
+clear
+npm run dev
+clear
+cd .\segundoParcial\
+clear
+cd .\microservicios\
+clear
+cd .\monolithic\
+ls
+npm install
+clear
+npm start
+npm start PORT 3000
+npm start PORT=3000
+clear
+PORT=5000 node index.js
+node .\index.js
+PORT=3000  node .\index.js
+node .\index.js PORT=3000
+node .\index.js -PORT=3000
+node .\index.js --PORT=3000
+clear
+node .\index.js 
+cd ..
+cd .\microservices\
+cd .\book-service\
+npm install
+cd ..
+cd .\car-service\
+npm install
+cd ..
+cd .\user-service\
+npm install
+clear
+cd ..
+clear
+git pull nginx
+docker pull nginx
+clear
+ls
+docker-compose up --build
+clear
+ssh root@198.199.81.154
+exit
+ssh root@198.199.81.154
+exit
+cd .\EnClases\
+cd .\ene18\
+clear
+npm run dev
+clear
+node .\index.js
+clear
+cd ..
+cd .\ene28\
+clear
+node .\index.js
+clear
+docker build . -t clase2801
+docker run --name pruebaclase2801 -d clase2801
+clear
+ssh root@198.199.81.154
+exit
+cd .\EnClases\
+clear
+cd .\ene28\
+clear
+docker run --name pruebaclase2801 -d clase2801
+clear
+docker run --name mongodocker -p  27017:27017 -d mongo
+clear
+cd ..
+cd .\ene29\
+clear
+npm i -g express-generator 
+express --views=hbs express-template
+clear
+cd .\express-template\
+npm i
+npm start
+clear
+docker run -p 3000:3000 -v $(pwd):/var/www -w "/var/www" node npm start
+pwd
+docker run -p 3000:3000 -v C:\joancema\clases\EnClases\ene29\express-template\:/var/www -w "/var/www" node npm start
+clear
+git init
+npm install
+clear
+cd .\EnClases\
+cd ene29
+cd .\express-template\
+clear
+npm start
+clear
+cd ../..
+cd ..
+cd .\segundoParcial\
+clear
+cd .\ssr\
+clear
+cd .\node-crud-master\
+clear
+npm install
+clear
+npm start
+clear
+npm i body-parser
+npm i cookie-parser
+clear
+npm i debug
+clear
+npm i express
+clear
+npm i hbs
+clear
+npm i mongoose
+npm i morgan
+clear
+npm i serve-favicon
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm install
+clear
+npm start
+clear
+npm start
+clear
+node .\bin\www
+clear
+node .\bin\www
+clear
+node .\bin\www
+clear
+node .\bin\www
+clear
+node .\bin\www
+clear
+node .\bin\www
+clear
+node .\bin\www
+clear
+node .\bin\www
+clear
+node .\bin\www
+clear
+npm i body-parser
+npm i cookie-parser
+npm i debug
+npm i express
+npm i hbs
+npm i mongoose
+npm i morgan
+npm i serve-favicon
+clear
+npm start
+clear
+npm instal body-parser
+npm i cookie-parser
+npm i debug
+npm i express
+npm i hbs
+npm i mongoose@5.11.14
+npm i morgan
+npm i serve-favicon
+clear
+node .\bin\www
+cd .\segundoParcial\
+ls
+cd .\ssr\
+clear
+ls
+cd .\node-crud-master\
+ls
+node .\bin\www
+clear
+cd prueba3
+clear
+npm init 
+clear
+npm i isomorphic-fetch
+npm cross-fetch
+clear
+cd .\segundoParcial\
+clear
+cd .\universal\
+clear
+npm init
+clear
+node .\index.js
+clear
+npm i nodemon
+clear
+nodemon .\index.js
+clear
+nodemon
+cler
+clear
+nodemon index.js
+npm i -d nodemon
+npm i -dev nodemon
+clear
+npm start
+npm run dev
+clear
+npm run dev
+clear
+npm run dev
+cd .\segundoParcial\
+cd .\universal\
+clear
+npm run dev
+clear
+npm run dev
+clear
+cd .\segundoParcial\universal\
+npm install detect-node
+npm run dev
+clear
+CD .\segundoParcial\universal\
+npm run dev
+CD .\segundoParcial\universal\
+clear
+npm run dev
+cd .\segundoParcial\universal\
+npm run dev
+cd .\sistemamedico\
+clear 
+npm start
+clear
+LS
+CD .\sistemamedico\
+CLEAR
+npm start
+CD .\sistemamedico\
+clear
+npm start
+clear
+ssh root@198.199.81.154
+exit
+cd .\EnClases\ene18\
+clear
+docker-compose up --build
+clear
+cd .\sistemamedico\
+clear
+npm start
+clear
+cd .\sistemamedico\
+clear
+npm start
+git status
+npm start
+clear
+cd .\sistemamedico\
+clear
+npm start
+cd .\Servicios\
+clear
+ls
+npm start
+clear
+npm run dev
+clear
+npm run dev
+clear
+clear
+cd .\sistemamedico\
+clear
+npm start
+cd .\Servicios\
+clear
+npm run dev
+clear
+clear
+cd .\example\
+clear
+ls
+cd ..
+npm run dev
+npm run build
+clear
+cd .\sistemamedico\
+clear
+npm start
+cd .\Servicios\
+npm run dev
+cd .\Servicios\
+clear
+npm run dev
+clear
+npm i sweetalert2
+clear
+npm start
+ssh root@198.199.81.154
+clear
+ssh root@198.199.81.154
+exit
+cd .\sistemamedico\
+clear
+npm install react-select-search
+react -v
+clear
+npm install react-select-search
+clear
+npm -v
+npm install react-select-search --save
+npm install react-select-search --legacy-peer-deps
+clear
+npm start
+cd .\Servicios\
+clear
+npm run dev
+clear
+npm start
+npm i react --save
+clear
+npm start
+clear
+npm install
+clear
+npm start
+clear
+npm i react-select
+npm install react-select-search
+clear
+npm start
+clear
+npm start
+clear
+npm install --save moment react-moment
+clear
+npm start
+clear
+clear
+cd .\sistemamedico\
+npm start
+cd .\Servicios\
+npm run dev
+cd .\sistemamedico\
+clear
+npm start
+cd .\Servicios\
+clear
+npm run dev
+clear
+cd .\segundoParcial\
+clear
+cd .\csr\
+clear
+cd .\integracion\
+clear
+npm run dev
+clear
+cd ..
+cd .\ssr\
+clear
+npm run dev
+clear
+npm start
+clear
+cd .\node-crud-master\
+npm run dev
+clear
+npm start
+clear
+cd ..
+cd .\motor\
+history
+clear
+history
+exit
+clear
+ls
+clear
+ls
+clear
+express --views=hbs ejemplo
+cd .\ejemplo\
+npm install
+SET DEBUG=ejemplo:* & npm start
+SET DEBUG=ejemplo:*
+npm start
+clear
+npm install hbs 
+clear
+npm start
+npm install serve-favicon
+npm start
+npm install mongoose
+clear
+npm install mongoose
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+cd ..
+ls
+cd ..
+ls
+cd .\node-crud-master\
+clear
+npm start
+clear
+npm start
+clear
+cd ..
+cd .\motor\
+clear
+ls
+cd .\ejemplo\
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+cd .\sistemamedico\
+clear
+cd .\Servicios\
+npm run dev
+npm start
+ssh root@198.199.81.154
+exit
+cd .\EnClases\
+cd .\ene18\
+clear
+npm run dev
+clear
+ls
+cldear
+clar
+clear
+docker-compose up --build
+clear
+ssh root@107.170.78.76
+clear
+ssh root@107.170.78.76
+cd .\Servicios\
+clear
+npm run dev
+cd .\sistemamedico\
+clear
+npm start
+ssh root@198.199.81.154
+clear
+npm start
+clear
+ssh root@198.199.81.154
+exit
+cd .\EnClases\feb11\
+clear
+npm init
+clear
+cd .\monolithic\
+clear
+npm init
+clear
+npm install express 
+clear
+npm start
+node .\index.js
+clear
+node .\index.js
+clear
+cd .\EnClases\
+clear
+cd .\feb11\
+clear
+cd .\microservices\book-service\
+clear
+npm init /y
+clear
+npm init -y
+clear
+npm install express
+clear
+cd ..\car-service\
+npm init -y
+clear
+npm install express
+cd ..\user-service\
+clear
+npm init -y
+npm install express
+clear
+cd ..
+clear
+cd .\EnClases\
+cd .\feb11\
+ls
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+cd .\Servicios\
+clear
+npm run dev
+cd .\sistemamedico\
+clear
+npm start
+cd .\segundoParcial\
+cd int
+clear
+cd .\csr\
+cd .\integracion\
+clear
+npm start
+clear
+cd .\Servicios\
+clear
+npm run dev
+cd .\sistemamedico\
+clear
+npm start
+clear
+npm i react-modal
+clear
+npm start
+npm i react-datetime-picker
+clear
+npm start
+clear
+clear
+cd .\EnClases\
+clear
+cd .\feb11\
+clear
+ls
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+cd .\Servicios\
+ls
+clear
+npm run dev
+cd .\sistemamedico\
+clear
+npm start
+clear
+clear
+clear
+cd .\segundoParcial\
+clear
+cd .\csr\
+clear
+ls
+cd ..
+cd .\ssr\
+clear
+ls
+mkdir motor2
+clear
+ls
+cd .\motor2\
+clear
+express --view=hbs ejemplo
+clear
+npm start
+ls
+cd .\ejemplo\
+clear
+ls
+npm start
+npm install http-errors
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+npm install mongoose
+npm start
+clear
+npm install
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm install
+clear
+npm start
+clear
+npm start
+clear
+cd .\segundoParcial\
+clear
+cd .\ssr\
+clear
+mkdir motor3
+clear
+cd .\motor3\
+clear
+express --view=hbs ejemplo
+cd .\ejemplo\
+npm install
+npm start
+clear
+npm start
+clear
+npm install mongoose
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+cd ..\..\motor2\ejemplo\
+npm start
+cd ..\..\motor3\
+cd .\ejemplo\
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+cd .\Servicios\
+clear
+npm run dev
+cd .\sistemamedico\
+clear
+npm start
+clear
+clear
+cd .\EnClases\
+clear 
+cd .\feb22\
+clear
+npm run dev
+clear
+ls
+npm install
+clear
+npm run dev
+clear
+cd .\Servicios\
+clear
+cd ..
+cd .\sistemamedico\
+clear
+npm start
+cd .\Servicios\
+clear
+npm run dev
+cd .\Servicios\
+npm run dev
+cd .\sistemamedico\
+clear
+npm start
+clear
+npm install react-redux
+clear
+npm install react-redux redux redux-thunk
+clear
+npm start
+cd .\EnClases\
+clear
+cd .\feb22\
+clear
+npm run dev
+clear
+cd .\Servicios\
+clear
+npm run dev
+cd .\sistemamedico\
+clear
+npm start
+clear
+clear
+cd .\Servicios\
+clear
+npm run dev
+cd .\sistemamedico\
+clear
+npm start
+clear
+clear
+cd .\EnClases\
+cd feb22
+clear
+npm run dev
+clear
+ls
+clear
+npm run dev
+clear
+ls
+clear
+npm run dev
+clear
+npm run dev
+clear
+cd ../
+cd .\clases\
+cd .\segundoParcial\
+clear cd .\ssr\
+cd motor3
+ls
+cd .\ssr\
+cd .\motor3\
+clear
+npm start
+ls
+cd .\ejemplo\
+clear
+npm start
+clear
+cd .\Servicios\
+npm run dev
+cd .\sistemamedico\
+clear
+npm start
+cd .\EnClases\feb22\
+clear
+npm run dev
+clear
+cd  ..\mar02\
+clear
+express --view=hbs ejemplo
+cd .\ejemplo\
+clear
+npm install
+npm install mongoose
+clear
+npm start
+clear
+cd .\Servicios\
+clear
+npm run dev
+cd  .\sistemamedico\
+clear
+npm start
+cd .\Servicios\
+clear
+npm run dev
+cd .\sistemamedico\
+clear
+npm start
+cd .\EnClases\
+cd .\mar02\
+clear
+cd .\ejemplo\
+clear
+npm start
+clear
+cd .\EnClases\
+cd .\mar02\
+clear
+cd .\ejemplo\
+npm start
+clear
+npm start
+clear
+cd .\EnClases\mar02\
+clear
+cd .\ejemplo\
+clear
+npm start
+clear
+npm start
+clear
+cd .\EnClases\
+clear
+cd .\mar02\
+clear
+cd .\ejemplo\
+clera
+cear
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+cd .\Servicios\
+clear
+npm run dev
+cd .\sistemamedico\
+clear
+npm start
+clear
+flutter --version
+flutter doctor
+flutter doctor --android-licenses
+clear
+ssh root@107.170.78.76
+clear
+mkdir ejerciciosInicio
+clear
+git clone https://gitlab.com/joancema/clasesquintoa.git
+ssh root@107.170.78.76
+history
+LS
+cd .\sistemamedico\
+clear
+npm start
+clear
+npm start
+ssh 198.199.81.154
+clear
+ssh root@198.199.81.154
+exit
+cd .\Servicios\
+clear
+npm run dev
+clear
+npm run dev
+clear
+npm run dev
+clear
+npm run dev
+npm i cors
+clear
+npm run dev
+clear
+npm run dev
+clear
+npm run dev
+clear
+npm run dev
+clear
+npm run dev
+clear
+npm run dev
+clear
+npm run dev
+clear
+ls
+cd .\sistemamedico\
+clear
+npm start
+ssh root@198.199.81.154
+exit
+ssh root@198.199.81.154
+php -v
+composer
+cd C:\xampp\htdocs\
+ls
+cd .\proyectos\
+mkdir prolaravel
+cd .\prolaravel\
+ls
+clear
+composer create-project laravel/laravel prueba "8.*" --prefer-dist
+exit
+ssh root@198.199.81.154
+exit
+ssh root@198.199.81.154
+ionic serve
+cd .\sistemamedico\
+clear
+npm start
+clear
+npm start
+clear
+ls
+clear
+git init
+git add .
+clear
+git commit -m "primer commit"
+clear
+git remote add origin https://github.com/joancema/facturacion.git
+git push -M main
+git branch -M main
+clear
+git push -u origin main
+git --version
+composer
+exit
+php
+php --version
+cd C:\joancema\
+clear
+cd /\
+clear
+cd .\joancema\
+ls
+cd .\2021\
+clear
+git clone https://github.com/joancema/AWIIA.git
+clear
+node .\index.js
+clear
+git status
+git config
+git name
+git user
+giet --help
+git username
+git config --name
+git config user.name
+git config user.email
+cd /
+cd .\joancema\
+clear
+ls
+cd .\2021\
+clear
+ls
+git clone https://gitlab.com/joancema/awiib.git
+clear
+ls
+cd .\awiib\
+ls
+clear
+cd ..
+git config user.name
+git config user.email
+clear
+cd .\semana1\
+clear
+node .\index.js
+clear
+node .\switch.js
+clear
+node .\index.js
+clear
+node .\index.js
+cd ..
+clear
+npm init
+clear
+node .\index.js
+cd .\semana1\
+node .\funciones.js
+clear
+cd .\semana1\
+clear
+npm --version
+clear
+npm init
+clear
+npm install
+clear
+node .\operacionesMatematicas.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+cd .\semana1\
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+cd .\semana1\
+node .\index.js
+node .\funciones.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+node .\clases1.js\
+clear
+node .\clases1.js\
+clear
+node .\clases1.js\
+clear
+node .\clases1.js\
+clear
+node .\clases1.js\
+clear
+node .\clases1.js\
+clear
+node .\clases1.js\
+clear
+node .\clases1.js\
+clear
+node .\clases1.js\
+clear
+node .\clases1.js\
+clear
+node .\clases1.js\
+clear
+node .\clases1.js
+clear
+cd .\semana1\
+clear
+node .\index.js
+clear
+node .\index.js
+node .\funciones.js
+clear
+node .\funciones.js
+cledar
+clear
+node .\funciones.js
+clear
+node .\funciones.js
+clear
+node .\funciones.js
+clear
+node .\funciones.js
+clear
+node .\funciones.js
+clear
+node .\funciones.js
+clear
+node .\funciones.js
+clear
+node .\funciones.js
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\funciones.js
+clear
+node .\clases1.js
+node .\clases2.js\
+clear
+node .\clases2.js\
+clear
+node .\clases2.js\
+clear
+node .\clases2.js\
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+php --version
+clear
+php artisan help
+clear
+cd C:\
+ls
+cd .\xampp\
+ls\
+ls
+cd pro
+clear
+cd .\htdocs\
+cd .\proyectos\
+clear
+ls
+cd .\prolaravel\
+clear
+php artisan help
+ls
+cd .\prueba\
+clear
+cd .\prueba\
+clear
+php artisan help
+php artisan route:list
+artisan help list
+clear
+artisan help list
+php artisan help list
+php artisan list
+cd .\semana1\
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+node .\arreglo1.js
+clear
+node .\arreglo1.js
+clear
+node .\arreglo1.js
+clear
+node .\arreglo1.js
+clear
+node .\arreglo1.js
+clear
+node .\arreglo1.js
+clear
+node .\arreglo1.js
+cledar
+clear
+node .\arreglo2.js
+clear
+node .\arreglo2.js
+node .\arreglo3.js
+node .\arreglo2.js
+node .\arreglo3.js
+clear
+node .\arreglo3.js
+clear
+node .\arreglo3.js
+clear
+node .\arreglo3.js
+clear
+node .\arreglo4.js
+clear
+node .\arreglo1.js
+clear
+node .\arreglo1.js
+clear
+node .\arreglo1.js
+clear
+cd .\semana1\
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos2.js
+clear
+node .\arreglos2.js
+node .\arreglos3.js
+clear
+node .\arreglos3.js
+clear
+node .\arreglos4.js
+clear
+node .\arreglos4.js
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos4.js
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+cd .\semana2\
+ckear
+clear
+cd .\semana2\
+clear
+cd .\mvc\
+clear
+git init
+git remote add origin https://github.com/joancema/mvcphppuro.git
+clear
+cd .\semana2\
+clear
+node .\callback.js
+clear
+node .\callback.js
+clear
+node .\callback.js
+clear
+node .\callback.js
+clear
+node .\callback.js
+cd semana2
+clear
+node .\callback.js
+clear
+node .\callback.js
+clear
+node .\callback.js
+clear
+node .\callback.js
+clear
+node .\callback.js
+clear
+node .\callback.js
+CD SEMana2
+clear
+node .\callback.js
+clear
+node .\callback.js
+clear
+node .\callback.js
+clear
+node .\callback.js
+clear
+node .\callback.js
+clear
+node .\callback.js
+clear
+node .\callback.js
+clear
+node .\callback.js
+clear
+node .\callback.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+exit
+node .\prueba.js
+cd .\semana1\
+cd ..\semana3\
+clear
+node .\prueba.js
+npm init
+clear
+npm install mongoose
+node .\prueba.js
+clear
+node .\prueba.js
+clear
+node .\prueba.js
+clear
+node .\prueba.js
+clear
+node .\prueba.js
+clear
+node .\prueba.js
+clear
+cd .\semana2\
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+cd semana2
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+cd .\semana3\
+clear
+npm init
+clear
+npm install mongoose --save
+npm install nodemon --save-dev
+clear
+npm start
+npm run stardev
+npm run devstart
+clear
+cd .\semana3\
+clear
+npm init 
+clear
+npm install mongoose --save
+clear
+npm install nodemon --save-dev
+clear
+npm start
+clear
+npm run devstart
+clear
+node .\index.js
+clear
+node .\index.js
+cd C:\xampp\
+ls
+cd .\htdocs\
+clear
+ls
+cd .\proyectos\
+ls
+clear
+git config --username
+git config --global user.name
+git config --global user.email
+git clone https://github.com/dfuvx98/MVCLaravel.git
+clear
+ls
+cd .\Sistema_HNF\
+clear
+composer install
+composer fund
+clear
+composer install
+npm install
+clear
+composer install
+composer install --ignore-patform-reqs
+composer install --ignore-platform-reqs
+clear
+composer update
+clear
+cd .\Sistema_HNF\
+clear
+cp .env.example .env
+php artisan key::generate
+clear
+npm start
+cd .\semana3\
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+cd .\semana3\
+clear
+npm install
+clear
+npm run devstart
+clear
+npm install axios --save
+npm install cheerio --save
+clear
+npm install dotenv --save
+clear
+npm install node-cron --save
+clear
+cd .\semana3\
+clear
+npm run devstart
+clear
+npm run devstart
+clear
+npm run devstart
+clear
+npm install axios --save
+clear
+npm install cheerio --save
+clear
+npm install dotenv --save
+clear
+npm install node-cron --save
+clear
+npm install
+clear
+cd .\semana3\
+clear
+npm run devstart
+clear
+cd .\semana3\
+clear
+npm run devstart
+clear
+node .\index.js
+cd semana4
+clear
+node .\index.html
+clear
+node .\index.html
+clear
+node .\index.html
+clear
+node .\index.html
+clear
+node .\index.html
+node index.js
+clear
+cd .\practica4\
+clear
+npm init
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+npm install nodemon -D
+clear
+npm run devstart
+clear
+cd .\practica4\}
+cd .\practica4\
+clear
+npm install express --save
+clear
+npm install cors --save
+clear
+npm run devstart
+clear
+npm run devstart
+clear
+npm run devstart
+clear
+cd .\ServicioRestPractica4\
+clear
+npm init
+clear
+npm install nodemon --save-dev
+clear
+npm run dev
+clear
+npm install express --save
+clear
+npm run dev
+clear
+npm install cors --save
+clear
+npm run dev
+clear
+CLEAR
+cd .\practica4\
+clear
+npm run devstart
+clear
+npm run dev
+cls
+cd .\ServicioRestPractica4\
+clear
+npm run dev
+Get-History
+clear
+(Get-PSReadlineOption).HistorySavePath
+cat (Get-PSReadlineOption).HistorySavePath
+cd .\05restful\
+clear
+npm init
+clear
+npm install express express-async-errors awilix compression cors helmet bcryptjs jsonwebtoken memory-cache mongoose swagger-ui-express
+npm install -D dotenv nodemon mockingoose jest
+clear
+cd .\05apirestful\
+clear
+npm init
+clear
+npm install express express-async-errors awilix cors compression helmet bcryptjs jsonwebtoken memory-cache mongoose swagger-ui-express
+clear
+npm install -D dotenv nodemon jest mockingoose
+cd ../
+cd ..
+ls
+cd .\xampp\
+cd .\htdocs\
+cler
+clear
+ls
+cd .\proyectos\
+clear
+ls
+mkdir SistemaHNF
+cd .\SistemaHNF\
+ls
+git clone https://github.com/dfuvx98/SistemaHNF.git
+ls
+cd .\SistemaHNF\
+clear
+(Get-PSReadlineOption).HistorySavePath
+cd .\05restful\
+clear
+cd .\05apirestful\
+clear
+cd .\05restful\
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+npm run dev
+clear
+npm start
+node .\index.js
+clear
+node .\index.js
+node in
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+cd .\05restful\
+clear
+node .\index.js
+clear
+npm start
+npm run start
+clear
+NODE_ENV=dev
+NODE_ENV=dev node .\index.js
+node .\index.js NODE_ENV=dev
+clear
+node .\index.js NODE_ENV=dev
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+cd .\05restful\
+clear
+node .\index.js
+clear
+node .\index.js
+cd .\05restful\
+clear
+node .\index.js
+clear
+node .\index.js
+cd .\05restful\
+clear
+node .\index.js
+clear
+node .\index.js
+cd .\05restful\
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+cd .\05apirestful\
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+cd .\05restful\
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+cd .\05restful\
+node .\index.js
+clear
+node .\index.js
+clear
+clear
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+cd .\05apirestful\
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+cd .\05apirestful\
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+cd ..
+cd .\prueba\
+clear
+npm install venom-bot
+python -v
+clear
+CLEAR
+git log
+clear
+git log
+clear
+29a50856dc6ccf96e9112b4682c251f87af98a42
+git show 29a50856dc6ccf96e9112b4682c251f87af98a42
+clear
+cd .\05restful\
+clear
+npm start
+node .\index.js
+clear
+cd .\05restful\
+clear
+npm start
+node .\index.js
+clear
+node .\index.js
+clear
+cd .\05apirestful\
+clear
+node .\index.js
+clear
+node .\index.js
+cd .\05restful\
+clear
+node .\index.js
+ls
+npm start
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+cd .\05apirestful\
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+docker build . -t prueba1
+docker run --name joancema -d prueba1
+clear
+docker run --name prueba1 -p 27017:27017 -d mongo
+clear
+docker run --name prueba1 -p 27017:27017 -d mongo
+clear
+npm i -g express-generator
+clear
+express --views=hbs express-template
+express --view=hbs express-template
+cd .\express-template\
+clear
+npm i
+clear
+SET DEBUG=express-template:* & npm start
+npm start
+clear
+docker run -p 3000:3000 -v C:\joancema\pruebas\express-template\:/var/www -w "/var/www" node npm start
+clear
+cd .\05restful\
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+cd ..\06ejemploDocker\
+clear
+node .\index.js
+clear
+docker build . -t ejemplo1
+clear
+docker run --name ejemplodocker1 -d ejemplo1
+cd .\05apirestful\
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+docker --version
+clear
+cd ..\06ejemploDocker1\
+clear
+node .\index.js
+clear
+docker build . -t ejemplo6b
+clear
+docker run --name contenedorsextob -d ejemplo6b
+clear
+cd .\05apirestful\
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+docker-compose up -d
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+cd .\06ejemploDocker1\
+clear
+docker build . -t ejemplo6b
+clear
+docker run --name contenedorsextob -d ejemplo6b
+clear
+docker-compose up --build
+clear
+docker run --name ejemploMongo -p 27017:27017 -d mongo
+clear
+mkdir 07ejemploDocker2
+clear
+cd .\07ejemploDocker2\
+clear
+npm install -g express-generator 
+clear
+Get-ExecutionPolicity
+Get-ExecutionPolicy
+clear
+Get-ExecutionPolicy
+clear
+express --view=hbs express-template
+clear
+npm install
+cd .\express-template\
+clear
+npm install
+clear
+npm start
+clear
+docker run -p 3000:3000 -v C:\joancema\2021\AWIIA\07ejemploDocker2\express-template\:/var/www -w "/var/www" node npm start
+clear
+docker run --name ejemplomongo -p 27017:27017 -d  mongo
+docker ps
+clear
+mkdir 07ejemploDocker2
+clear
+cd .\07ejemploDocker2\
+clear
+npm install -g express-generator
+clear
+Get-ExecutionPolicy
+clear
+express --view=hbs  express-template
+clear
+cd .\express-template\
+clear
+npm install
+clear
+npm start
+clear
+docker run -p 3000:3000 -v C:\joancema\2021\awiib\07ejemploDocker2\express-template\:/var/www -w "/var/www" node npm start
+clear
+cd .\05restful\
+clear
+npm start
+clear
+docker-compose up --build
+clear
+cd .\05apirestful\
+clear
+npm start
+clear
+docker-compose up --build
+cd .\05apirestful\
+clear
+docker-compose up --build
+clear
+cd .\08microservicios\
+clear
+npm start -y
+clear
+cd .\monolithic\
+clear
+npm init -y
+clear
+npm i express
+clear
+npm start
+clear
+npm start
+clear
+PORT=3000 node .\index.js
+clear
+ node .\index.js PORT=3000
+PORT=3000 node .\index.js
+clear
+cd ../
+clear
+ls
+cd .\microservices\
+clear
+cd .\book-service\
+npm init -y
+clear
+npm i express
+node .\index.js
+clear
+cd .\08microservicios\
+clear
+cd .\monolithic\
+clear
+npm init -y
+clear
+npm install express
+clear
+npm start
+clear
+npm start
+clear
+PORT=3000; node .\index.js
+clear
+cd ..\microservices\book-service\
+clear
+npm init -y
+clear
+npm install express
+clear
+npm start
+clear
+npm start
+clear
+cd ../
+cd ..
+clear
+ls
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+docker login
+clear
+docker-compose up --build
+clear
+docker-compose --build
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+cd .\monolithic\
+cd ..\microservices\
+clear
+docker build
+ls
+cd .\user-service\
+docker build
+docker build .
+cd ../
+cd .\car-service\
+docker build .
+cd ..
+ls
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+cd .\08microservicios\
+clear
+cd .\microservices\
+cd .\car-service\
+clear
+npm init -y
+clear
+npm install express
+cd ..\user-service\
+clear
+npm init -y
+clear
+npm install express
+clear
+cd .\08microservicios\
+clear
+cd .\microservices\
+cd .\car-service\
+clear
+npm init -y
+npm install express
+clear
+cd ..\user-service\
+ls
+clear
+npm init -y
+npm install express
+clear
+cd..
+clear
+ls
+cd ..
+clear
+docker-compose up --build
+clear
+ls
+clear
+docker-compose up --build
+clear
+cd .\08microservicios\
+clear
+ls
+clear
+docker-compose up --build
+clear
+cd ..\05restful\
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+cd .\08microservicios\
+clear
+ls
+clear
+ls
+docker-compose up --build
+clear
+cd ..\05restful\
+clear
+npm run dev
+clear
+cd .\08microservicios\
+clear
+ls
+clear
+docker-compose up --build
+clear
+npm run dev
+clear
+cd ..\05apirestful\
+clear
+ls
+clear
+npm run dev
+clear
+cd .\05restful\
+clear
+npm run dev
+clear
+cd .\05apirestful\
+clear
+npm run dev
+clear
+mkdir ssr
+cd .\ssr\1
+cd .\ssr\
+clear
+express --view=hbs ejemplo
+npm install
+cd ssr
+ls
+cd .\ejemplo\
+npm install
+clear
+npm install mongoose
+npm install Serve-favicon
+npm install serve-favicon
+clear
+npm start
+clear
+cd .\05restful\
+clear
+npm run dev
+clear
+mkdir 09SSR
+cd .\09SSR\
+clear
+express --view=hbs ejemplo
+ls\
+clear
+ls
+cd .\ejemplo\
+clear
+npm install 
+npm install serve-favicon
+npm install mongoose
+clear
+cd .\05apirestful\
+clear
+npm run dev
+clear
+cd ../
+clear
+mkdir 09SSR
+cd .\09SSR\
+clear
+express --view=hbs ejemplo
+clear
+cd .\ejemplo\
+clear
+npm install
+clear
+npm install mongoose
+npm install serve-favicon
+clear
+ls
+cd .\09SSR\
+clear
+npm start
+ls
+cd .\ejemplo\
+clear
+npm start
+clear]
+clear
+mkdir joselin
+clear
+cd .\joselin\
+clear
+git clone https://github.com/Joss2008/Trabajo_Autonomo_Final.git
+ls
+clear
+cd .\backend\
+clear
+nom i
+clear
+npm i
+npm start
+clear
+npm run dev
+clear
+npm run devstart
+cd .\api\
+clear
+npm start
+clear
+ls
+npm start
+npm install
+npm start
+clear
+npm start
+clear
+clear
+ls
+cd josn
+clear
+cd C:\joancema\
+clear
+ls
+cd .\2021\
+clear
+mkdir joancema
+clear
+cd .\joancema\
+clear
+echo "hola mundo" >> readme.md
+ls
+git init
+ls
+git add .
+git commit -m "primer commit]"
+git branch -M main
+clear
+git remote add origin  https://github.com/joancema/ejemplo.git
+git push -u origin main
+ls
+ckear
+clear
+cd ..-
+cd ../
+clear
+cd .\joancema\
+clear
+ls
+mkdir 20212
+ls
+cd .\2021\
+ls
+cd ../
+cd .\20212\
+clear
+ls
+mkdir A
+cd a
+clear
+echo "prueba" >> README.md
+git init
+git add .\README.md
+git commit -m "primer commit"
+git branch -M main
+git remote add origin https://github.com/joancema/SextoA2021-2.git
+clear
+git push -u origin main
+clear
+ls
+cd ../
+clear
+mkdir B
+cd b
+clear
+echo "# SextoB2021-2" >> README.md
+git add .\README.md
+git init
+git add .\README.md
+git commit -m "primer commiit"
+clear
+git branch -M main
+git remote add origin https://github.com/joancema/SextoB2021-2.git
+git push -u origin main
+clear
+node --version
+clear
+ node --version
+node --version
+npm --version
+git status
+clear
+cd .\01introduccion\
+clear
+npm init
+clear
+node .\index.js
+clear
+node .\index.js
+node .\index.js\
+clear
+node .\index.js\
+clear
+node .\index.js\
+clear
+node .\index.js\
+clear
+node .\funciones.js
+clear
+node .\funciones.js
+clear
+node .\funciones.js
+clear
+git status
+clear
+git
+clear
+git --version
+clear
+cd .\01introduccion\
+clear
+npm --version
+node --version
+clear
+npm init
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\funciones.js
+clear
+node .\funciones.js
+clear
+node .\funciones.js
+clear
+node .\funciones.js
+clear
+node .\index.js
+clear
+node .\funciones.js
+clear
+node .\funciones.js
+npm install bcrypt
+clear
+npm start
+clear
+node in
+clear
+cd .\01introduccion\
+lcear
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+cd .\01introduccion\
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases2.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos2.js
+clear
+node .\arreglos2.js
+node .\arreglos3.js
+clear
+node .\arreglos4.js
+clear
+cd .\01introduccion\
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases2.js
+clear
+node .\clases2.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos2.js
+clear
+node .\arreglos2.js
+node .\arreglos3.js
+clear
+node .\arreglos4.js
+clear
+node .\arreglos4.js
+clear
+cd .\02sinAsin\
+clear
+node .\callback.js
+clear
+node .\callback.js
+clear
+node .\callback.js
+cd .\02sincAsin\
+clear
+node .\callback.js
+clear
+node .\callback.js
+clear
+node .\callback.js
+clear
+node .\callback.js
+clear
+node .\callback.js
+clear
+node .\callback.js
+cd .\02sincAsin\
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+cd .\02sinAsin\
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\promesas.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+mkdir 03Mongo
+cd .\03Mongo\
+clear
+git status
+git pull
+npm init --y
+clear
+npm install mongoose
+clear
+cd .\03Mongo\
+clear
+git status
+clear
+npm install
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+cd .\semana3\
+clear
+node .\indexInicio.js
+mkdir 03mongodb
+cd .\03mongodb\
+clear
+npm init --y
+clear
+npm install mongoose
+clear
+npm install
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+cd .\03Mongo\
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+npm install axios
+npm install cheerio
+npm install dotenv
+npm install node-cron
+npm install --save-dev nodemon
+clear
+npm start
+clear
+node .\ejemplo.js
+clear
+cd .\03mongodb\
+clear
+nod .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+npm install axios
+clear
+npm install cheerio
+clear
+npm install node-cron
+clear
+npm install dotenv
+clear
+npm install --save-dev nodemon
+clear
+npm start
+clear
+cd .\03Mongo\
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+ce .\03mongodb\
+clear
+cd .\03mongodb\
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+cd .\04express\
+clear
+npm init --y
+clear
+npm install express
+clear
+npm install --save-dev nodemon
+npm install cors
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+mkdir 04express
+clear
+cd .\04express\
+clear
+npm init --y
+clear
+npm install express
+clear
+npm install --save-dev nodemon
+clear
+node .\index.js
+cxlear
+clear
+node .\index.js
+clear
+node .\index.js
+nodemon .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.html
+node .\index.js
+clear
+cd .\04express\
+clear
+node .\index.html
+clear
+node .\index.js
+npm install cors
+clear
+node .\index.js
+clear
+node .\index.js
+nodemon inde.js
+nodemon index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+nodemon
+nodemon index.js
+npm run dev
+clear
+cd .\04express\
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+clear
+node .\ejemplo.js
+nodemon .\ejemplo.js
+clear
+npm run dev
+clear
+npm run dev
+clear
+cd .\05RestB\
+clear
+npm init
+clear
+npm i express
+npm i --save-dev nodemon
+clear
+nodemon index.js
+clear
+npm run dev
+clear
+npm i cirs
+npm i cors
+npm run dev
+clear
+mkdir 05restB
+cd .\05restB\
+clear
+npm init --y
+clear
+npm install express
+npm i cors
+npm i --save-dev nodemon
+clear
+npm run dev
+clear
+mkdir 06Capas
+clear
+cd .\06Capas\
+clear
+npm init --y
+clear
+npm i express
+npm i cors
+clear
+npm i dotenv
+clear
+npm i mongoose
+clear
+npm i express-validator
+clear
+npm i --save-dev nodemon
+clear
+mkdir 06capas
+clear
+cd .\06capas\
+clear
+npm init --y
+clear
+npm i express
+clear
+npm i cors
+clear
+npm dotenv
+clear
+npm i dotenv
+clear
+npm i mongoose
+clear
+npm i express-validator
+npm i --save-dev nodemon
+clear
+cd .\06capas\
+clear
+cd .\06capas\
+clear
+npm start
+node .\index.js
+clear
+cear
+clear
+cd .\06Capas\
+clear
+node .\index.js
+clear
+history 1000
+history -1000
+clear
+history
+history all
+history help
+history -h
+history 1000
+clear
+Get-history
+history
+(Get-PSReadlineOption).HistorySavePath
+ls
+npm i
+npm start
+clear
+node .\index.js
+clear
+docker-compose build
+docker-compose up
+npm start
+clear
+history
+history 1000
+history -1000
+history
+history
+docker-compose up
+clear
+docker-compose build
+docker-compose up --build
+clear
+cd .\06Capas\
+clear
+node .\index.js
+clear
+docker-compose up --build
+clear
+cd .\06Capas\
+clear
+npm run dev
+clear
+npm run dev
+clear
+npm run dev
+clear
+npm run dev
+clear
+cd .\06capas\
+clear
+npm run dev
+clear
+npm run dev
+clear
+npm run dev
+clear
+npm run dev
+ls
+node .\index.js
+clear
+docker build .
+docker run -d
+clear
+docker build . -t nodejs-prueba
+docker run --name prueba -d nodejs-prueba
+clear
+docker run --name prueba-mongo -p 27017:27017 -d mongo
+express-generator
+npm --views=hbs  express-template
+clear
+express --views=hbs  express-template
+cd .\express-template\
+ls
+docker run -p 3000:3000 -v C:\joancema\clases\segundoParcial\docker2\express-template\:/var/www -w "/var/www" node npm start
+docker run -p 3000:3000 -v C:\joancema\docker\express-template\:/var/www -w "/var/www" node npm start
+npm i
+docker run -p 3000:3000 -v C:\joancema\docker\express-template\:/var/www -w "/var/www" node npm start
+clear
+npm start
+clear
+mkdir 07docker1
+cd .\07docker1\
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+docker build . -t pruebauno
+clear
+docker run --name pruebacon -d pruebauno
+clear
+cd 07docker1
+mkdir 07docker1
+cd .\07docker1\
+clear
+cd .\07docker1\
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+node index.js
+clear
+node index.js
+clear
+l
+clear
+ls
+docker build . -t ejemplonode
+clear
+docker run  --name nodeprueba  -d  ejemplonode
+clear
+express --views=hbs pruebax
+cd .\pruebax\
+npm i
+SET DEBUG=pruebax:* & npm start
+npm start
+clear
+Get-ExecutionPolicy
+docker run -p 3000:3000 -v C:\joancema\pruebas\expressdocker\pruebax\:/var/www -w "/var/www" node npm start
+clear
+docker run -p 3000:3000 -v C:\joancema\pruebas\expressdocker\pruebax\:/var/www -w "/var/www" node npm start
+clear
+docker run --name bdmongo -p 27017:27017  mongo
+clear
+mkdir 08docker2
+cd .\08docker2\
+clear
+Get-ExecutionPolicy
+express --views=hbs  ejemplodoc
+ls
+cd .\ejemplodoc\
+npm i
+npm start
+clear
+docker run -p  3000:3000 -v  C:\joancema\20212\A\08docker2\ejemplodoc\:/var/www   node npm start
+docker run -p  3000:3000 -v  C:\joancema\20212\A\08docker2\ejemplodoc\:/var/www -w "/var/www"  node npm start
+clear
+cd ../
+cd ..\06Capas\
+clear
+ls
+clear
+docker-compose up --build
+docker run --name dbmongo -d  mongo
+clear
+docker run --name dbmongo -p 27017:27017 -d  mongo
+clear
+mkdir 08docker2
+cd docker2
+cd .\08docker2\
+clear
+Get-ExecutionPolicy
+express --view=hbs  ejemplodoc
+cd .\ejemplodoc\
+npm i
+npm start
+clear
+docker run  -p 3000:3000 -v C:\joancema\20212\B\08docker2\ejemplodoc\:/var/www  node npm start
+clear
+docker run  -p 3000:3000 -v C:\joancema\20212\B\08docker2\ejemplodoc\:/var/www -w "/var/www"  node npm start
+clear
+cd ..\..\06capas\
+clear
+ls
+clear
+docker-compose up --build
+clear
+mkdir 09microservices
+cd .\09microservices\
+clear
+mkdir monolithic
+mkdir microservices
+clear
+cd .\monolithic\
+clear
+npm init --y
+clear
+npm install express
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+mkdir 09microservices
+clear
+cd .\09microservices\
+mkdir monolithic
+mkdir microservices
+cd .\monolithic\
+clear
+npm init --y
+clear
+npm install express
+clear
+node .\index.js
+clear
+node in
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+docker --help
+docker --version
+clear
+cd .\08microservicios\
+ls
+docker-compose up --build
+ls
+cd .\monolithic\
+ls
+docker build .
+docker images
+docker run 10aa771cbabf
+clear
+cd ..
+docker-compose up --build
+clear
+cd .\09microservices\
+clear
+node in
+clear
+ls
+cd .\monolithic\
+clear
+node .\index.js
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+cd ..
+ls
+cd .\microservices\
+clear
+ls
+cd .\book-service\
+clear
+npm init --y
+npm i express
+cd ../
+cd .\user-service\
+npm init --y
+npm i express
+cd ..\car-service\
+npm init --y
+npm i express
+clear
+cd ..
+clear
+ls
+docker-compose up --build
+clear
+docker-compose up --build
+docker pull node
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+cd .\09microservices\
+clear
+cd .\monolithic\
+node .\index.js
+clear
+node .\index.js
+clear
+npm start
+clear
+cd ..\microservices\
+clear
+cd .\book-service\
+npm init --y
+npm i express
+cd ..\car-service\
+npm init --y
+npm i express
+cd ..\user-service\
+clear
+npm init --y
+npm i express
+clear
+cd ..
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+cd .\09microservices\
+clear
+ls
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+cd 09
+cd .\09microservices\
+clear
+docker-compose up --build
+clear
+docker-compose up --build
+clear
+cd ..\06Capas\
+clear
+ls
+npm start
+clear
+cd .\09microservices\
+clear
+docker-compose up --build
+clear
+cd ..\06capas\
+clear
+ls
+npm start
+clear
+npm start
+cd .\06Capas\
+clear
+ls
+npm start
+clear
+npm start
+clear
+cd .\06capas\
+clear
+npm start
+cd .\06Capas\
+clear
+npm start
+clear
+npm start
+clear
+mkdir 10ssr
+cd .\10ssr\
+clear
+express --view=hbs ssr
+npm install
+npm install axios\
+npm install axios
+cd .\ssr\
+clear
+npm install axios
+npm start
+clear
+cd .\06capas\
+clear
+npm start
+clear
+mkdir 10ssr
+cd .\10ssr\
+clear
+express --view=hbs ssr
+cd .\ssr\
+npm install
+npm install axios
+clear
+npm start
+clear
+npm start
+clear
+clear
+clear
+npm start
+npm start
+ñs
+clear
+ls
+cd .\ssr\
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+clear
+clear
+npm start
+npm start
+cd .\ssr\
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+cd .\06Capas\
+clear
+npm start
+npm start
+cd .\10ssr\ssr\
+npm start
+clear
+npm start
+clear
+clear
+cd .\06Capas\
+clear
+npm start
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+clear
+npm start
+npm start
+npm start
+npm start
+clear
+npm start
+npm start
+clear
+npm start
+npm start
+npm start
+npm start
+npm start
+clear
+npm start
+cd .\06Capas\
+npm start
+clear
+Optimize-VHD -Path c:\path\to\data.vhdx -Mode Full
+clear
+swl
+wsl
+wsl --shutdown
+select vdisk file="C:\Users\joanc\AppData\Local\Docker\wsl\data\ext4.vhdx"
+diskpart
+clear
+nvm -v
+npm -v
+node -v
+clear
+mkdir aw120221
+cd .\aw120221\
+clear
+git clone https://github.com/joancema/AWI20221.git
+git -v
+clear
+git --version
+cd .\01clasehtml\
+clear
+node --version
+node -v
+git --version
+ls
+cd .\aw120221\
+ls
+cd ..
+mkdir aw220221
+clear
+cd .\aw220221\
+ls
+git clone https://github.com/joancema/AWII20221.git
+cd C:\joancema\
+ls
+clear
+mkdir WIyWII
+cd .\WIyWII\
+git clone https://github.com/joancema/AWII20221A.git
+ls
+cd .\AWII20221A\
+ls
+cd ..
+clear
+git clone https://github.com/joancema/AWI20221A.git
+ls
+cd .\AWII20221A\
+cd ..
+cd .\AWI20221A\
+clear
+ls
+cd .\01clasehtml\
+ls
+clear
+cd .\01practica\
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\arreglos1.js
+clear
+node .\index.js
+clear
+node .\arreglos1.js
+mostrarLista(5);
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos2.js
+clear
+node .\arreglos2.js
+clear
+node .\arreglos2.js
+node .\arreglos1.js
+clear
+node .\clases1.js
+cd C:\joancema\WIyWII\
+ls
+cd .\AWI20221A\
+ls
+cd ..
+clear
+git clone https://github.com/joancema/AWII20221B.git
+ls
+cd .\AWII20221B\
+clear
+ls
+node --version
+clear
+cd .\01practicaIntroduccion\
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+node .\arreglos.js
+clear
+node .\arreglos.js
+clear
+node .\arreglos.js
+clear
+node .\arreglos.js
+clear
+node .\arreglos.js
+clear
+node .\arreglos.js
+clear
+node .\arreglos.js
+clear
+node .\arreglos.js
+clear
+node .\arreglos2.js
+clear
+node .\arreglos.js
+node .\arreglos2.js
+vf .\01practicaIntroduccion2\
+cd .\01practicaIntroduccion2\
+clear
+node --version
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+cd .\01practicaIntroduccion2\
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clear
+node .\index.js
+clea
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos2.js
+clear
+node .\arreglos2.js
+clear
+node .\arreglos2.js
+clear
+node .\arreglos2.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+node .\arreglos1.js
+clear
+cd .\01practicaIntroduccion2\
+clear
+node .\clases1.js
+clear
+node .\index.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases2.js
+clear
+node .\clases2.js
+clear
+node .\clases2.js
+clear
+cd .\01practicaIntroduccion2\
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+clear
+node .\clases1.js
+node .\clases2.js
+clear
+node .\clases2.js
+cd ../../
+cd .\joancema\
+cd .\WIyWII\
+cd .\OLD\
+clear
+git clone https://gitlab.com/joancema/clasesquintoa.git
+cd .\primerEjemplo\
+clear
+cd .\02async\
+clear
+node .\callbacks.js
+clear
+node .\callbacks.js
+clear
+node .\callbacks.js
+clear
+node .\callbacks.js
+clear
+node .\callbacks.js
+clear
+node .\callbacks.js
+clear
+node .\callbacks.js
+clear
+node .\callbacks.js
+clear
+node .\callbacks.js
+clear
+cd .\02async\
+clear
+node .\callbacks.js
+clear
+node .\callbacks.js
+clear
+node .\callbacks.js
+clear
+node .\callbacks.js
+clear
+node .\callbacks.js
+clear
+node .\callbacks.js
+clear
+node .\callbacks.js
+clear
+node .\callbacks.js
+clear
+node .\callbacks.js
+clear
+node .\callbacks.js
+clear
+node .\callbacks.js
+clear
+node .\callbacks.js
+clear
+node .\callbacks.js
+clear
+node .\callbacks.js
+clear
+node .\callbacks.js
+clear
+node .\callbacks.js
+clear
+node .\callbacks.js
+cd .\02async\
+clear
+node .\promises.js
+clear
+node .\promises.js
+clear
+node .\promises.js
+clear
+node .\promises.js
+clear
+node .\promises.js
+clear
+node .\promises.js
+clear
+node .\promises.js
+clear
+node .\promises.js
+clear
+node .\promises.js
+clear
+node .\promises.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+node .\asyncAwait.js
+clear
+npm create vite@latest --template vanilla
+cd .\vanilla\
+npm run dev
+npm install
+npm run dev
+clear
+cd .\03introjavascript\
+clear
+npm --version
+npm create vite@latest
+clear
+npm create vite@latest intro
+cd .\intro\
+npm install
+npm run dev
+clear
+cd .\02async\
+node .\promises.js
+clear
+node .\promises.js
+clear
+node .\promises.js
+clear
+node .\promises.js
+clear
+node .\promises.js
+clear
+node .\promises.js
+clear
+node .\promises.js
+clear
+node .\promises.js
+clear
+node .\asyncawait.js
+clear
+node .\asyncawait.js
+clear
+node .\asyncawait.js
+clear
+node .\asyncawait.js
+clear
+node .\asyncawait.js
+clear
+node .\asyncawait.js
+clear
+node .\asyncawait.js
+clear
+node .\asyncawait.js
+clear
+node .\asyncawait.js
+clear
+node .\asyncawait.js
+clear
+node .\asyncawait.js
+clear
+node .\asyncawait.js
+clear
+node .\asyncawait.js
+clear
+cd .\vanilla\
+clear
+npm run dev
+ls
+cd C:\joancema\
+ls
+cd .\WIyWII\
+ls
+cd .\OLD\
+ls
+git clone https://github.com/joancema/SextoB2021-2.git
+git clone https://github.com/joancema/SextoA2021-2.git
+ls
+git clone https://github.com/joancema/AWIIA.git
+ls
+clear
+ls
+cd .\03mongodb\
+ls
+node .\ejemplo.js
+npm install
+node .\ejemplo.js
+cd ../
+ls
+cd .\AWI20221A\
+clear
+npm run dev
+cd .\03introjavascript\
+clear
+ls
+cd .\intro\
+clear
+npm run dev
+clear
+node --version
+cd ..
+npm create vite@latest primerEjemplo
+cd .\primerEjemplo\
+npm install
+clear
+cd ..\intro\
+npm run dev
+clear
+npm run dev
+clear
+cd .\03introjavascript\
+cd .\intro\
+npm run dev
+clear
