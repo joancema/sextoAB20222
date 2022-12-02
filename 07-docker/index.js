@@ -4,3 +4,5 @@ for (;;)
 {
     console.log(contador++);
 }
+
+///final
