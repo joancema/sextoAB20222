@@ -1,3 +1,5 @@
+///inicial
+
 let contador=0;
 
 for (;;)
