@@ -4,7 +4,7 @@ var router = express.Router();
 const axios = require('axios');
 
 const httpAxios= axios.create({
-    baseURL:'http://localhost:2500/v2/sextob/api/'
+    baseURL:'http://localhost:2500/v1/inventory/api/'
 })
 
 
@@ -13,24 +13,22 @@ router.post('/producto/operar', ( req,res,next )=>{
     console.log(req.body)
     if (req.body._id==="")
     {
-        httpAxios.post(`productos`,{
-            nombre: req.body.nombre,
-            precio: req.body.precio,
-            costo: req.body.costo,
-            minimo: req.body.minimo,
-            stock: req.body.stock
+        httpAxios.post(`products`,{
+            name: req.body.nombre,
+            price: req.body.precio,
+            cost: req.body.costo,
+            minimum: req.body.minimo,
         }).then(respuesta=>{
             res.redirect('/')
         })
     }
     else
     {
-        httpAxios.put(`productos/${req.body._id}`,{
-            nombre: req.body.nombre,
-            precio: req.body.precio,
-            costo: req.body.costo,
-            minimo: req.body.minimo,
-            stock: req.body.stock,
+        httpAxios.put(`products/${req.body._id}`,{
+            name: req.body.nombre,
+            price: req.body.precio,
+            cost: req.body.costo,
+            minimum: req.body.minimo,
         }).then(respuesta=>{
             res.redirect('/')
         })

@@ -3,15 +3,15 @@ var router = express.Router();
 const axios = require('axios');
 
 const httpAxios =  axios.create({
-  baseURL:'http://localhost:2500/v2/sextob/api/',
+  baseURL:'http://localhost:2500/v1/inventory/api/',
 })
 
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  httpAxios.get(`productos`).then(respuesta=>{
-    console.log(respuesta.data.productos);
-    res.render('index', { productos: respuesta.data.productos });
+  httpAxios.get(`products`).then(respuesta=>{
+    console.log(respuesta.data.products);
+    res.render('index', { productos: respuesta.data.products });
   })
 });
 router.get('/producto/nuevo',(req,res,next)=>{
@@ -19,12 +19,12 @@ router.get('/producto/nuevo',(req,res,next)=>{
 })
 
 router.get('/producto/modificar/:id',(req,res,next)=>{
-  httpAxios.get(`productos/${req.params.id}`).then(respuesta=>{
+  httpAxios.get(`products/${req.params.id}`).then(respuesta=>{
     res.render('productoForm', {producto: respuesta.data })
   })
 })
 router.get('/producto/eliminar/:id', (req,res,next)=>{
-  httpAxios.delete(`productos/${req.params.id}`).then(respuesta=>{
+  httpAxios.delete(`products/${req.params.id}`).then(respuesta=>{
     res.redirect('/');
   })
 })

@@ -2,83 +2,77 @@ import './style.css'
 import axios from 'axios'
 import { IResProducto, Producto } from './interfaces/IProducto';
 const httpAxios =  axios.create({
-  baseURL:'http://localhost:2500/v2/sextob/api/',
+  baseURL:'http://localhost:2500/v1/inventory/api/',
 })
 const app = document.querySelector<HTMLDivElement>('#app')!
 //#region mapa de elementos
 const etiqueta = document.createElement("label")
-etiqueta.textContent="Identificador"
+etiqueta.textContent="ID"
 const input = document.createElement("input");
 input.id="id"
 etiqueta.htmlFor="id"
 app.appendChild(etiqueta);
 app.appendChild(input);
 app.innerHTML += `
-<label for ="nombre">Nombre</label><input id="nombre"/>
-<label for ="estado">Estado</label><input id="estado"/>
-<label for ="precio">Precio</label><input id="precio"/>
-<label for ="costo">Costo</label><input id="costo"/>
-<label for ="minimo">Mínimo</label><input id="minimo"/>
-<label for ="stock">Stock</label><input id="stock"/>
-<button id="nuevo" >Nuevo</button>
-<button id="grabar" >Grabar</button>
-<button id="consultar" >Consultar</button>
-<div id="cuerpo"/>
+<label for ="name">Name</label><input id="name"/>
+<label for ="price">Price</label><input id="price"/>
+<label for ="cost">Cost</label><input id="cost"/>
+<label for ="minimum">Minimum</label><input id="minimum"/>
+<button id="new" >New</button>
+<button id="save" >Save</button>
+<button id="query" >Query</button>
+<div id="body"/>
 `
-const nuevo = document.querySelector<HTMLButtonElement>('#nuevo')!
-const grabar = document.querySelector<HTMLButtonElement>('#grabar')!
-const consultar = document.querySelector<HTMLButtonElement>('#consultar')!
+const newb = document.querySelector<HTMLButtonElement>('#new')!
+const save = document.querySelector<HTMLButtonElement>('#save')!
+const query = document.querySelector<HTMLButtonElement>('#query')!
 
 const id = document.querySelector<HTMLInputElement>('#id')!
-const nombre = document.querySelector<HTMLInputElement>('#nombre')!
-const estado = document.querySelector<HTMLInputElement>('#estado')!
-const precio = document.querySelector<HTMLInputElement>('#precio')!
-const costo = document.querySelector<HTMLInputElement>('#costo')!
-const minimo = document.querySelector<HTMLInputElement>('#minimo')!
+const name = document.querySelector<HTMLInputElement>('#name')!
+const status = document.querySelector<HTMLInputElement>('#status')!
+const price = document.querySelector<HTMLInputElement>('#price')!
+const cost = document.querySelector<HTMLInputElement>('#cost')!
+const minimum = document.querySelector<HTMLInputElement>('#minimum')!
 const stock = document.querySelector<HTMLInputElement>('#stock')!
-const cuerpo = document.querySelector<HTMLDivElement>('#cuerpo')!
+const body = document.querySelector<HTMLDivElement>('#body')!
 //#endregion
-nuevo.addEventListener('click',()=>{
-  nombre.value=""
-  estado.value=""
-  precio.value=""
-  costo.value=""
-  minimo.value=""
-  stock.value=""
+newb.addEventListener('click',()=>{
+  name.value=""
+  price.value=""
+  cost.value=""
+  minimum.value=""
   id.value=""
 })
-consultar.addEventListener('click', async ()=>{
+query.addEventListener('click', async ()=>{
   const respproductos:IResProducto 
-  =  await (await httpAxios.get<IResProducto>('productos')).data;
+  =  await (await httpAxios.get<IResProducto>('products')).data;
 
     const tabla   = document.createElement("table")
     tabla.id="tabla"
     tabla.border="1"
 
 
-    const { productos } = respproductos;
+    const { products } = respproductos;
 
-    for (const producto of productos)
+    for (const product of products)
     {
       const row = tabla.insertRow()
       const celda =  row.insertCell()
-      celda.innerHTML=` <button class="boton" value="${producto._id}" >${producto.nombre}</button>`
+      celda.innerHTML=` <button class="boton" value="${product._id}" >${product.name}</button>`
       const celda2= row.insertCell()
-      celda2.innerHTML=`${producto.precio}`
+      celda2.innerHTML=`${product.price}`
     }
-    cuerpo.innerHTML=``
-    cuerpo.appendChild(tabla)
+    body.innerHTML=``
+    body.appendChild(tabla)
     document.querySelectorAll('.boton').forEach((ele:Element)=>{
       ele.addEventListener('click', async ()=>{
           const idx= (ele as HTMLButtonElement).value;
           const producto:Producto 
-          =  await (await httpAxios.get<Producto>(`productos/${idx}`)).data;
-          nombre.value= producto.nombre;          
-          precio.value= producto.precio.toString();  
-          costo.value= producto.costo.toString();  
-          minimo.value= producto.minimo.toString();  
-          stock.value= producto.stock.toString();  
-          estado.value= producto.estado!.toString();  
+          =  await (await httpAxios.get<Producto>(`products/${idx}`)).data;
+          name.value= producto.name;          
+          price.value= producto.price.toString();  
+          cost.value= producto.cost.toString();  
+          minimum.value= producto.minimum.toString();  
           id.value= producto._id!;  
            
       })
@@ -91,28 +85,27 @@ consultar.addEventListener('click', async ()=>{
   
 
 })
-grabar.addEventListener('click',async ()=>{
+save.addEventListener('click',async ()=>{
   const data:Producto = {
-    nombre:nombre.value,
-    costo: Number( costo.value),
-    precio: Number( precio.value),
-    minimo: Number( minimo.value),
-    stock: Number( stock.value),
-
+    name:name.value,
+    cost: Number( cost.value),
+    price: Number( price.value),
+    minimum: Number( minimum.value),
   }
   // console.log(data);
 
   if (id.value.trim().length>0 )
   {
     //        
-    const resp: Producto = await (await httpAxios.put<Producto>(`productos/${id.value}`)).data
-    console.log(`El prducto ${resp.nombre} fue modificado con éxito`);
+    const resp: Producto = await (await httpAxios.put<Producto>(`products/${id.value}`, data)).data
+    console.log(resp)
+    console.log(`El prducto ${resp.name} fue modificado con éxito`);
     
     return;
   }
   try {
-    const resp: Producto =  await (await httpAxios.post<Producto>(`productos`, data)).data
-    console.log(`El producto ${resp.nombre} fue grabado con éxito`);
+    const resp: Producto =  await (await httpAxios.post<Producto>(`products`, data)).data
+    console.log(`El producto ${resp.name} fue grabado con éxito`);
   } catch (error) {
     if ( axios.isAxiosError(error)  )
     {
