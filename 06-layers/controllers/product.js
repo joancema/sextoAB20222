@@ -35,7 +35,7 @@ const createProduct= async (req, res = response)=>{
     if (existProduct)
     {
         return res.status(400).json({
-            msg:`El producto ${ existeProducto.nombre } ya existe`
+            msg:`El producto ${ existProduct.name } ya existe`
         })
     }
 
