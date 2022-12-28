@@ -4,6 +4,9 @@ import { IResProducto, Producto } from './interfaces/IProducto';
 const httpAxios =  axios.create({
   baseURL:'http://localhost:2500/v1/inventory/api/',
 })
+
+
+
 const app = document.querySelector<HTMLDivElement>('#app')!
 //#region mapa de elementos
 const etiqueta = document.createElement("label")
@@ -29,6 +32,9 @@ const query = document.querySelector<HTMLButtonElement>('#query')!
 
 const id = document.querySelector<HTMLInputElement>('#id')!
 const name = document.querySelector<HTMLInputElement>('#name')!
+
+
+
 const status = document.querySelector<HTMLInputElement>('#status')!
 const price = document.querySelector<HTMLInputElement>('#price')!
 const cost = document.querySelector<HTMLInputElement>('#cost')!
@@ -36,6 +42,8 @@ const minimum = document.querySelector<HTMLInputElement>('#minimum')!
 const stock = document.querySelector<HTMLInputElement>('#stock')!
 const body = document.querySelector<HTMLDivElement>('#body')!
 //#endregion
+
+
 newb.addEventListener('click',()=>{
   name.value=""
   price.value=""
