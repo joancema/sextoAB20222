@@ -19,7 +19,7 @@ services:
     volumes:
       - './data:/data/db'
       #- dbdata:/data/db
-      - /data/db
+      # - /data/db
 #volumes:
  # dbdata:
      # volumes:
@@ -29,3 +29,4 @@ services:
 
        # https://stackoverflow.com/questions/46166304/docker-compose-volumes-without-colon
        # https://docs.docker.com/storage/volumes/
+       # https://docs.docker.com/compose/environment-variables/set-environment-variables/
