@@ -10,7 +10,22 @@ services:
       - MONGODB_CNN=mongodb://mongo:27017/test
     ports:
       - "2500:2500"
+    volumes:
+      - myapp:/var/www
   mongo:
     image: mongo
     ports:
       - "27017:27017"
+    volumes:
+      - './data:/data/db'
+      #- dbdata:/data/db
+      - /data/db
+#volumes:
+ # dbdata:
+     # volumes:
+       # - type: bind
+       # source: ./data
+       # target: /data/db
+
+       # https://stackoverflow.com/questions/46166304/docker-compose-volumes-without-colon
+       # https://docs.docker.com/storage/volumes/
